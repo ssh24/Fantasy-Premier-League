@@ -18,6 +18,7 @@
 
 11. Generate team form data (teams/team-form.ipynb)
 12. Generate player form data (players/player-form.ipynb)
-13. Generate reverse fixture data (fixtures/reverse-fixture-merge-data.ipynb)
+13. Impute data to get rid of outliers in a loop (preprocessing/impute-data.ipynb)
+14. Generate reverse fixture data (fixtures/reverse-fixture-merge-data.ipynb)
 
-14. Data preprocessing (preprocessing/data-preprocessing.ipynb)
+15. Data preprocessing (preprocessing/data-preprocessing.ipynb)
